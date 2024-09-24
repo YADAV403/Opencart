@@ -1,0 +1,36 @@
+17:58:32.125 [main] INFO  com.testCases.AccountRegistrationTest - Entering all the details
+17:58:37.189 [main] INFO  com.testCases.AccountRegistrationTest - Execution Finished
+17:59:45.329 [main] INFO  com.testCases.AccountRegistrationTest - Execution Started
+17:59:45.578 [main] INFO  com.testCases.AccountRegistrationTest - Clicked on MyAccount
+17:59:46.846 [main] INFO  com.testCases.AccountRegistrationTest - Clicked on Register
+17:59:46.853 [main] INFO  com.testCases.AccountRegistrationTest - Entering all the details
+17:59:49.161 [main] INFO  com.testCases.AccountRegistrationTest - Execution Finished
+18:00:51.295 [main] INFO  com.testCases.LoginTest - started execution
+18:00:51.559 [main] INFO  com.testCases.LoginTest - clicked myaccount
+18:00:52.049 [main] INFO  com.testCases.LoginTest - clicked login
+18:00:52.049 [main] INFO  com.testCases.LoginTest - entering username and password
+18:00:53.945 [main] INFO  com.testCases.LoginTest - verification page
+18:00:54.027 [main] INFO  com.testCases.LoginTest - execution finished
+18:01:26.166 [main] INFO  com.testCases.LoginTest - started execution
+18:01:28.088 [main] INFO  com.testCases.LoginTest - clicked myaccount
+18:01:28.674 [main] INFO  com.testCases.LoginTest - clicked login
+18:01:28.675 [main] INFO  com.testCases.LoginTest - entering username and password
+18:01:30.481 [main] INFO  com.testCases.LoginTest - verification page
+18:01:30.559 [main] INFO  com.testCases.LoginTest - execution finished
+18:04:38.769 [main] INFO  com.testCases.LoginTest - started execution
+18:04:42.025 [main] INFO  com.testCases.LoginTest - clicked myaccount
+18:04:45.565 [main] INFO  com.testCases.LoginTest - clicked login
+18:04:45.566 [main] INFO  com.testCases.LoginTest - entering username and password
+18:04:51.015 [main] INFO  com.testCases.LoginTest - verification page
+18:04:51.128 [main] INFO  com.testCases.LoginTest - execution finished
+18:06:01.310 [main] INFO  com.testCases.AccountRegistrationTest - Execution Started
+18:06:01.516 [main] INFO  com.testCases.AccountRegistrationTest - Clicked on MyAccount
+18:06:02.539 [main] INFO  com.testCases.AccountRegistrationTest - Clicked on Register
+18:06:02.549 [main] INFO  com.testCases.AccountRegistrationTest - Entering all the details
+18:06:05.389 [main] INFO  com.testCases.AccountRegistrationTest - Execution Finished
+18:06:13.391 [main] INFO  com.testCases.LoginTest - started execution
+18:06:13.518 [main] INFO  com.testCases.LoginTest - clicked myaccount
+18:06:14.010 [main] INFO  com.testCases.LoginTest - clicked login
+18:06:14.011 [main] INFO  com.testCases.LoginTest - entering username and password
+18:06:16.175 [main] INFO  com.testCases.LoginTest - verification page
+18:06:16.246 [main] INFO  com.testCases.LoginTest - execution finished
