@@ -7,11 +7,6 @@
   <test thread-count="5" name="test(failed)">
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="master"/>
-      </run>
-    </groups>
     <classes>
       <class name="com.testCases.LoginTest">
         <methods>
