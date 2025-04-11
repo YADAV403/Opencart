@@ -94,11 +94,11 @@
 	    <version>5.1.2</version>
 	</dependency>
 
-	<dependency>
+	<!--<dependency>
 		<groupId>com</groupId>
 		<artifactId>MSelenium</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
+	</dependency>-->
 	
 </dependencies>  
 </project>

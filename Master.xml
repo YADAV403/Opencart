@@ -10,7 +10,7 @@
 		<parameter name="os" value="Windows" />
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<!-- <class name="com.testCases.AccountRegistrationTest" />-->
+			 <class name="com.testCases.AccountRegistrationTest" />
 			 <class name="com.testCases.LoginTest" />
 			<!--<class name="com.testCases.LoginDDT"/> -->
 
